@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e1e20c4.css",
+    "main.js": "/static/js/main.2707e5f6.js",
+    "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/stem.png": "/static/media/stem.1b734b9b10127f2957e3.png",
+    "static/media/award1.png": "/static/media/award1.8ea55151e5cf60807661.png",
+    "static/media/arm.png": "/static/media/arm.7cc3354922cdd110bec9.png",
+    "static/media/soft1.png": "/static/media/soft1.02f111e0869317d51a68.png",
+    "static/media/soft2.png": "/static/media/soft2.c7b9349197d30011ce23.png",
+    "static/media/soft0.png": "/static/media/soft0.053db74562716eae651e.png",
+    "static/media/project1.png": "/static/media/project1.d02631ae240d72286f89.png",
+    "static/media/msc.png": "/static/media/msc.a94ee0b3ea045824de28.png",
+    "static/media/auv.png": "/static/media/auv.094cc1bf48cdbc4134d1.png",
+    "static/media/project3.png": "/static/media/project3.2ca606be0ecebe49b207.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/project2.png": "/static/media/project2.2aededcde9d0b93f01f8.png",
+    "static/media/project5.png": "/static/media/project5.523b35ccf5867c9cce08.png",
+    "static/media/project4.png": "/static/media/project4.b017822b8b0002d8ccc0.png",
+    "static/media/emad.jpg": "/static/media/emad.952e7ba324e3a0767681.jpg",
+    "index.html": "/index.html",
+    "main.2e1e20c4.css.map": "/static/css/main.2e1e20c4.css.map",
+    "main.2707e5f6.js.map": "/static/js/main.2707e5f6.js.map",
+    "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1e20c4.css",
+    "static/js/main.2707e5f6.js"
+  ]
+}
