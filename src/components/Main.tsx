@@ -21,7 +21,7 @@ function Main() {
                         <a href="mailto:emad.jandaghi@gmail.com" rel="noreferrer"><EmailIcon /></a>
                     </div>
                     <h1 style={{ fontSize: '3.2rem' }}>Emad Jandaghi</h1>
-                    <p style={{ fontSize: '1.4rem' }}>PhD Candidate in Robotics and Control</p>
+                    <p style={{ fontSize: '1.25rem' }}>PhD Candidate in Robotics and Control</p>
                     <p style={{ fontSize: '1rem' }}>University of Rhode Island, Kingston, RI, USA</p>
                     <div className="mobile_social_icons">
                         <a href="https://www.linkedin.com/in/emad-jandaghi" target="_blank" rel="noreferrer"><LinkedInIcon /></a>
