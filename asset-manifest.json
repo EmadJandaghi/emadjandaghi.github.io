@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4231b3e2.css",
-    "main.js": "/static/js/main.da985a1e.js",
+    "main.js": "/static/js/main.c254e514.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/stem.png": "/static/media/stem.1b734b9b10127f2957e3.png",
     "static/media/award1.png": "/static/media/award1.8ea55151e5cf60807661.png",
@@ -15,7 +15,7 @@
     "static/media/auv.png": "/static/media/auv.094cc1bf48cdbc4134d1.png",
     "static/media/project3.png": "/static/media/project3.2ca606be0ecebe49b207.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/project6.png": "/static/media/project6.29d800b3dd66c6403a8a.png",
+    "static/media/project6.png": "/static/media/project6.0e09697c345790f1ab2c.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/project2.png": "/static/media/project2.2aededcde9d0b93f01f8.png",
     "static/media/project5.png": "/static/media/project5.523b35ccf5867c9cce08.png",
@@ -23,11 +23,11 @@
     "static/media/emad.jpg": "/static/media/emad.952e7ba324e3a0767681.jpg",
     "index.html": "/index.html",
     "main.4231b3e2.css.map": "/static/css/main.4231b3e2.css.map",
-    "main.da985a1e.js.map": "/static/js/main.da985a1e.js.map",
+    "main.c254e514.js.map": "/static/js/main.c254e514.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4231b3e2.css",
-    "static/js/main.da985a1e.js"
+    "static/js/main.c254e514.js"
   ]
 }
