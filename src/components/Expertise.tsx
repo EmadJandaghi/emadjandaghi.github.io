@@ -31,7 +31,9 @@ const labelsSecond = [
     "Fault Detection",
     "Real-Time Control",
     "Embedded Programming",
-    "Data-Driven Modeling"
+    "Data-Driven Modeling",
+    "Servo control",
+    "Stepper control"
 ];
 
 const labelsThird = [

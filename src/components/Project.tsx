@@ -4,6 +4,7 @@ import project2 from '../assets/images/project2.png';
 import project3 from '../assets/images/project3.png';
 import project4 from '../assets/images/project4.png';
 import project5 from '../assets/images/project5.png';
+import project6 from '../assets/images/project6.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -15,6 +16,11 @@ function Project() {
                     <a href="https://github.com/EmadJandaghi" target="_blank" rel="noreferrer"><img src={project1} className="zoom" alt="VR-Linked Robotic Interaction" width="100%" /></a>
                     <a href="https://github.com/EmadJandaghi" target="_blank" rel="noreferrer"><h2>VR-Linked Robotic Interaction</h2></a>
                     <p>Developed an interactive robotic system for real-time physical manipulation of a robotic arm mirrored by a drone in VR. Integrated motion planning, trajectory generation, and VR with haptic feedback using ROS, Python, and Gazebo for synchronized control and visualization. (Ongoing)</p>
+                </div>
+                <div className="project">
+                    <a href="https://github.com/EmadJandaghi/robotics-autonomous-intelligent-inventory-manager" target="_blank" rel="noreferrer"><img src={project6} className="zoom" alt="Autonomous Intelligent Inventory Manager" width="100%" /></a>
+                    <a href="https://github.com/EmadJandaghi/robotics-autonomous-intelligent-inventory-manager" target="_blank" rel="noreferrer"><h2>Autonomous Intelligent Inventory Manager</h2></a>
+                    <p>An autonomous inventory management system for the DeepMind robot, featured line navigation, AOI color detection, YOLOv8 object recognition, and intelligent shelf inventory verification. integrates Gazebo, RViz2, and custom ROS2 messages for a complete perception and autonomy pipeline.</p>
                 </div>
                 <div className="project">
                     <a href="https://github.com/EmadJandaghi/learning-control-multi-robotic-arm" target="_blank" rel="noreferrer"><img src={project2} className="zoom" alt="Adaptive Learning Control" width="100%" /></a>

@@ -16,7 +16,7 @@ function Awards() {
                     <a href="https://web.uri.edu/engineering/students/2023/10/student-led-team-receives-artificial-intelligence-award/" target="_blank" rel="noreferrer">
                         <h2>Best Student Paper Finalist</h2>
                     </a>
-                    <p>E. Jandaghi, X. Chen, C. Yuan. <i>IEEE/ASME AIM</i>, 2023. Awarded for outstanding contribution to "Motion Dynamics Modeling and Fault Detection of a Soft Trunk Robot".</p>
+                    <p>Awarded for outstanding contribution to "Motion Dynamics Modeling and Fault Detection of a Soft Trunk Robot".</p>
                 </div>
                 <div className="award">
                     <a href="https://www.uri.edu/news/2022/06/uri-faculty-volunteer-at-rhode-island-national-guard-stem-exploration-open-house-for-high-school-students/" target="_blank" rel="noreferrer">
@@ -25,7 +25,7 @@ function Awards() {
                     <a href="https://www.uri.edu/news/2022/06/uri-faculty-volunteer-at-rhode-island-national-guard-stem-exploration-open-house-for-high-school-students/" target="_blank" rel="noreferrer">
                         <h2>STEM Innovations Certification</h2>
                     </a>
-                    <p>E. Jandaghi. <i>Rhode Island National Guard STEM Program</i>, 2022-2024. Received multiple certifications for volunteering and inspiring high school students.</p>
+                    <p>Received multiple certifications for volunteering and inspiring high school students 2023 24 25.</p>
                 </div>
                 <div className="award">
                     <a href="https://www.example.com/award3" target="_blank" rel="noreferrer">
