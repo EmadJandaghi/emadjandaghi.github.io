@@ -4,6 +4,23 @@ import { faRobot, faMicrochip, faCogs, faWrench } from '@fortawesome/free-solid-
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
+
+const labelsFifth = [
+    "Ros2",
+    "Nav2",
+    "SLAM",
+    "Path Planning",
+    "Localization",
+    "OpenCV",
+    "YOLO",
+    "Point Clouds",
+    "Sensor Fusion",
+    "Movit2",
+    "Rviz2",
+    "Custom Interface",
+    "AI Perception"
+];
+
 const labelsFirst = [
     "Sawyer Robot",
     "ROS",
@@ -69,6 +86,19 @@ function Expertise() {
             <div className="skills-container">
                 <h1>Expertise</h1>
                 <div className="skills-grid">
+
+                    <div className="skill">
+                        <FontAwesomeIcon icon={faRobot} size="3x" />
+                        <h3>Robotics Software Development</h3>
+                        <p>Full-stack ROS2 development for autonomous mobile robots and manipulators, including navigation, perception, control, localization, and motion planning. Experienced in building complete robotics pipelines from sensor data acquisition to world modeling, decision making, and execution..</p>
+                        <div className="flex-chips">
+                            <span className="chip-title">Tech stack:</span>
+                            {labelsFifth.map((label, index) => (
+                                <Chip key={index} className="chip" label={label} />
+                            ))}
+                        </div>
+                    </div>
+
                     <div className="skill">
                         <FontAwesomeIcon icon={faRobot} size="3x" />
                         <h3>Robotics Simulation & VR-HRI</h3>
