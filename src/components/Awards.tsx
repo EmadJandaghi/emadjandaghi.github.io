@@ -10,10 +10,10 @@ function Awards() {
             <h1>Awards & Honors</h1>
             <div className="awards-grid">
                 <div className="award">
-                    <a href="https://web.uri.edu/engineering/students/2023/10/student-led-team-receives-artificial-intelligence-award/" target="_blank" rel="noreferrer">
+                    <a href="https://aim2023.org/students/Student%20Best%20Paper%20Award.html" target="_blank" rel="noreferrer">
                         <img src={award1} className="zoom" alt="Best Student Paper Finalist AIM 2023" width="100%" />
                     </a>
-                    <a href="https://web.uri.edu/engineering/students/2023/10/student-led-team-receives-artificial-intelligence-award/" target="_blank" rel="noreferrer">
+                    <a href="https://aim2023.org/students/Student%20Best%20Paper%20Award.html" target="_blank" rel="noreferrer">
                         <h2>Best Student Paper Finalist</h2>
                     </a>
                     <p>Awarded for outstanding contribution to "Motion Dynamics Modeling and Fault Detection of a Soft Trunk Robot".</p>
