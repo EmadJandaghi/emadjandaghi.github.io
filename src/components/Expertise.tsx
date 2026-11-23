@@ -66,18 +66,18 @@ const labelsThird = [
 ];
 
 const labelsFourth = [
-    "Impedance Control",
-    "Torque Estimation",
-    "Stretch Robot",
-    "Python",
-    "ROS",
-    "C++",
-    "Embedded Control",
-    "Mechatronics",
-    "Motor Calibration",
-    "Git",
-    "Linux",
-    "Hardware Abstraction"
+    "Physical AI",
+    "Robot learning",
+    "Generative Policies",
+    "VLA",
+    "ROS2",
+    "LeRobot",
+    "PyTorch",
+    "Computer Vision",
+    "Robot Perception",
+    "GPU Training",
+    "GPU Development",
+    "Teleoperation"
 ];
 
 function Expertise() {
@@ -86,6 +86,20 @@ function Expertise() {
             <div className="skills-container">
                 <h1>Expertise</h1>
                 <div className="skills-grid">
+
+
+                    <div className="skill">
+                        <FontAwesomeIcon icon={faRobot} size="3x" />
+                        <h3>Full-Stack Physical AI & Robotics Developer</h3>
+                        <p>End-to-end development of intelligent robotic systems, from hardware integration, ROS 2, perception, and data collection to training, fine-tuning, and real-world deployment of generative AI and VLA policies. SmolVLA, pi0.5, Diffusion Policy, X-VLA, FLUX 3, LeRobot, and GPU-based training infrastructure.</p>
+                        <div className="flex-chips">
+                            <span className="chip-title">Tech stack:</span>
+                            {labelsFourth.map((label, index) => (
+                                <Chip key={index} className="chip" label={label} />
+                            ))}
+                        </div>
+                    </div>
+
 
                     <div className="skill">
                         <FontAwesomeIcon icon={faRobot} size="3x" />
@@ -130,18 +144,6 @@ function Expertise() {
                         <div className="flex-chips">
                             <span className="chip-title">Tech stack:</span>
                             {labelsThird.map((label, index) => (
-                                <Chip key={index} className="chip" label={label} />
-                            ))}
-                        </div>
-                    </div>
-
-                    <div className="skill">
-                        <FontAwesomeIcon icon={faWrench} size="3x" />
-                        <h3>Stretch Lift Control Optimization</h3>
-                        <p>Contributed to software development for optimizing the Stretch Robot Lift performance at Hello Robot. Designed an impedance controller using torque-current calibration without accelerometers, extending the control stack with Python, ROS, and C++.</p>
-                        <div className="flex-chips">
-                            <span className="chip-title">Tech stack:</span>
-                            {labelsFourth.map((label, index) => (
                                 <Chip key={index} className="chip" label={label} />
                             ))}
                         </div>

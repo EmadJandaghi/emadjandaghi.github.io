@@ -5,6 +5,7 @@ import project3 from '../assets/images/project3.png';
 import project4 from '../assets/images/project4.png';
 import project5 from '../assets/images/project5.png';
 import project6 from '../assets/images/project6.png';
+import project7 from '../assets/images/project7.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -12,6 +13,11 @@ function Project() {
         <div className="projects-container" id="projects">
             <h1>PhD Research Projects</h1>
             <div className="projects-grid">
+                <div className="project">
+                    <a href="https://github.com/EmadJandaghi/so101-generative-physical-ai" target="_blank" rel="noreferrer"><img src={project7} className="zoom" alt="Sawyer Robot Modeling" width="100%" /></a>
+                    <a href="https://github.com/EmadJandaghi/so101-generative-physical-ai" target="_blank" rel="noreferrer"><h2>Generative Physical AI - so101</h2></a>
+                    <p>Developed and deployed generative Physical AI policies for SO-101 robotic manipulation. investigating Diffusion Policy, X-VLA, FLUX 3, and other robot learning architectures, with a research focus on identifying limitations, developing novel algorithmic improvements, and enhancing real-world policy performance.</p>
+                </div>
                 <div className="project">
                     <a href="https://github.com/EmadJandaghi" target="_blank" rel="noreferrer"><img src={project1} className="zoom" alt="VR-Linked Robotic Interaction" width="100%" /></a>
                     <a href="https://github.com/EmadJandaghi" target="_blank" rel="noreferrer"><h2>VR-Linked Robotic Interaction</h2></a>
